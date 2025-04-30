@@ -15,7 +15,7 @@ Start
 Program to o display the elements of the priority queue after insertion and deletion operation
 ```
 Developed by: PREM R
-RegisterNumber: 212223240124 
+RegisterNumber: 212223240124
 */
 
 /*#include<stdio.h> int size = 0;
